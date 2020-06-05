@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vamj809\\OneDrive\\INTEC\\2020-03 Mayo-Julio\\INS-368 Tendencias en Desarrollo de Apps\\INS-368L (Lab) Tendencias en Desarrollo de Apps\\A03_Ranges\\A03_Ranges.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vamj809\\OneDrive\\INTEC\\2020-03 Mayo-Julio\\INS-368 Tendencias en Desarrollo de Apps\\INS-368L (Lab) Tendencias en Desarrollo de Apps\\A03_Ranges\\A03_Ranges.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vamj809\\OneDrive\\INTEC\\2020-03 Mayo-Julio\\INS-368 Tendencias en Desarrollo de Apps\\INS-368L (Lab) Tendencias en Desarrollo de Apps\\A03_Ranges\\A03_Ranges.fsproj",
+        "projectName": "A03_Ranges",
+        "projectPath": "C:\\Users\\vamj809\\OneDrive\\INTEC\\2020-03 Mayo-Julio\\INS-368 Tendencias en Desarrollo de Apps\\INS-368L (Lab) Tendencias en Desarrollo de Apps\\A03_Ranges\\A03_Ranges.fsproj",
+        "packagesPath": "C:\\Users\\vamj809\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vamj809\\OneDrive\\INTEC\\2020-03 Mayo-Julio\\INS-368 Tendencias en Desarrollo de Apps\\INS-368L (Lab) Tendencias en Desarrollo de Apps\\A03_Ranges\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vamj809\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.1, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
